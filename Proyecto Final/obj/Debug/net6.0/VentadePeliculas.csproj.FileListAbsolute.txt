@@ -1,0 +1,15 @@
+C:\Users\HP\VentadePeliculas\bin\Debug\net6.0\VentadePeliculas.exe
+C:\Users\HP\VentadePeliculas\bin\Debug\net6.0\VentadePeliculas.deps.json
+C:\Users\HP\VentadePeliculas\bin\Debug\net6.0\VentadePeliculas.runtimeconfig.json
+C:\Users\HP\VentadePeliculas\bin\Debug\net6.0\VentadePeliculas.dll
+C:\Users\HP\VentadePeliculas\bin\Debug\net6.0\VentadePeliculas.pdb
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.csproj.AssemblyReference.cache
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.AssemblyInfoInputs.cache
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.AssemblyInfo.cs
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.csproj.CoreCompileInputs.cache
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.dll
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\refint\VentadePeliculas.dll
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.pdb
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\VentadePeliculas.genruntimeconfig.cache
+C:\Users\HP\VentadePeliculas\obj\Debug\net6.0\ref\VentadePeliculas.dll
